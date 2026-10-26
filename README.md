@@ -28,8 +28,8 @@ Test set results for the tuned models (2,000 customers, 20% of the data):
 
 <table>
   <tr>
-    <td align="center"><img src="images/confusion-matrix-logistic-regression.png" width="160" alt="Confusion matrix for tuned Logistic Regression"></td>
-    <td align="center"><img src="images/confusion-matrix-decision-tree.png" width="160" alt="Confusion matrix for tuned Decision Tree"></td>
+    <td align="center"><img src="images/confusion-matrix-logistic-regression.png" width="190" alt="Confusion matrix for tuned Logistic Regression"></td>
+    <td align="center"><img src="images/confusion-matrix-decision-tree.png" width="190" alt="Confusion matrix for tuned Decision Tree"></td>
   </tr>
   <tr>
     <td align="center">Confusion matrix for tuned Logistic Regression</td>
