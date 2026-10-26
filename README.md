@@ -59,7 +59,7 @@ In business terms, the tuned Decision Tree can be used as an early warning syste
 
 **Cross-validation accuracy across maximum depth for Decision Tree.** Accuracy peaks at depth 5 and then falls as deeper trees begin to overfit.
 
-<p align="center"><a href="images/decision-tree-depth-tuning.png"><img src="images/decision-tree-depth-tuning.png" width="550" alt="Cross-validation accuracy across maximum depth for Decision Tree"></a></p>
+<p align="center"><a href="images/decision-tree-depth-tuning.png"><img src="images/decision-tree-depth-tuning.png" width="500" alt="Cross-validation accuracy across maximum depth for Decision Tree"></a></p>
 
 ## How it works
 
