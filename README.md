@@ -47,19 +47,19 @@ In business terms, the tuned Decision Tree can be used as an early warning syste
 
 **Normalised churn rates by Geography and Gender**
 
-[![Normalised churn rates by Geography and Gender](images/churn-by-geography-gender.png)](images/churn-by-geography-gender.png)
+<p align="center"><a href="images/churn-by-geography-gender.png"><img src="images/churn-by-geography-gender.png" alt="Normalised churn rates by Geography and Gender"></a></p>
 
 **Age distribution grouped by Exited (0 = stayed, 1 = churned)**
 
-[![Age distribution grouped by Exited](images/age-by-churn.png)](images/age-by-churn.png)
+<p align="center"><a href="images/age-by-churn.png"><img src="images/age-by-churn.png" alt="Age distribution grouped by Exited"></a></p>
 
 **Feature selection scores from four methods.** No single feature is consistently ranked as weak across all four methods, so all 11 features were kept.
 
-[![Feature selection scores from four methods](images/feature-selection-scores.png)](images/feature-selection-scores.png)
+<p align="center"><a href="images/feature-selection-scores.png"><img src="images/feature-selection-scores.png" alt="Feature selection scores from four methods"></a></p>
 
 **Cross-validation accuracy across maximum depth for Decision Tree.** Accuracy peaks at depth 5 and then falls as deeper trees begin to overfit.
 
-[![Cross-validation accuracy across maximum depth for Decision Tree](images/decision-tree-depth-tuning.png)](images/decision-tree-depth-tuning.png)
+<p align="center"><a href="images/decision-tree-depth-tuning.png"><img src="images/decision-tree-depth-tuning.png" alt="Cross-validation accuracy across maximum depth for Decision Tree"></a></p>
 
 ## How it works
 
